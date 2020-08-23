@@ -1,5 +1,4 @@
-# Firstrepo
-This is a practice repo
+# Introduction
 
 Name:
 Prashansa Ambarkar
@@ -14,7 +13,7 @@ Prashansa Ambarkar
 ## Course 
 Computer Science
 
-## Hobies
+## Hobbies
 1. Dancing 
 
 2. Singing 
