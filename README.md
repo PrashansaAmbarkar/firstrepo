@@ -1,4 +1,4 @@
-# firstrepo
+# Firstrepo
 This is a practice repo
 
 Prashansa Ambarkar
